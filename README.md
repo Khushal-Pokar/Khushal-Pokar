@@ -8,8 +8,6 @@ I have done M.Sc. in Bioinformatics (2017). I have worked as Senior Lab Assistan
 
 - 🎓 &nbsp; Studied **Bioinformatics**
 
-- 🌱 &nbsp; I’m **Open source** contributor.
-
 - 👨‍💻 &nbsp; All of my projects are available at <a href="https://github.com/Khushal-Pokar">:octocat:</a>
 
 - 📝 &nbsp; All of my publications are listed below.
