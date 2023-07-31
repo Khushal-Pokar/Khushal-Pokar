@@ -15,6 +15,8 @@ I have done M.Sc. in Bioinformatics (2017). I have worked as Senior Lab Assistan
      Link: &nbsp; <a href="https://doi.org/10.1016/j.csbj.2020.06.023">:page_with_curl:</a>
   -  Sharma, M., Barai, R. S., Kundu, I., Bhaye, S., **Pokar, K.**, & Idicula-Thomas, S. (2020). PCOSKBR2: a database of genes, diseases, pathways, and networks         associated with polycystic ovary syndrome. Scientific Reports, 10(1).<br>
      Link: &nbsp; <a href="https://doi.org/10.1038/s41598-020-71418-8">:page_with_curl:</a>
+  -  Kundu, I., Sharma, M., Barai, R.S., Pokar, K., Idicula-Thomas, S., GeDiPNet: Online resource of curated gene-disease associations for polypharmacological           targets discovery, Genes & Diseases.<br>
+     Link: &nbsp; <a href="https://doi.org/10.1016/j.gendis.2022.05.034">:page_with_curl:</a>
   -  Sharma, M., Kundu, I., Barai, R.S., Bhaye, S., Desai, K., Pokar, K., &Idicula-Thomas, S. (2021). Enrichment analyses of diseases and pathways associated with       precocious puberty using PrecocityDB. Sci Rep 11, 4203.<br>
      Link: &nbsp; <a href="https://doi.org/10.1038/s41598-021-83446-z">:page_with_curl:</a>
 
